@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { ViewState, Expense, CategoryType, DashboardStats, Guest } from './types';
 import { Dashboard } from './components/Dashboard';
